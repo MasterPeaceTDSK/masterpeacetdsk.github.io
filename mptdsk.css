@@ -5,8 +5,10 @@ header {
 }
 body {
     background-color:   #ffd7ce  ;
-    white-space: pre-line;
-    white-space: post-line;
+
+}
+ln_skip {
+  white-space: pre-line;
 }
 
 .box {
