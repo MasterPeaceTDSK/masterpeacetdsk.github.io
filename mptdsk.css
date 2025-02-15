@@ -1,8 +1,28 @@
 @charset "utf-8";
-body {
-    background-color:   #ffd7ce  ;
-}
-zeez {
+header {
     font-size: 20px;
     font-family: Georgia,serif;
 }
+body {
+    background-color:   #ffd7ce  ;
+    white-space: pre-line;
+    white-space: post-line;
+}
+
+.box {
+    width: 80%;
+    height: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+  }
+  ul {
+    list-style-type: none;
+    
+  }
+  li {
+    display: inline;
+  }
+
+  
